@@ -5,10 +5,7 @@ api-version: 1.19
 prefix: Coinsystem
 authors: [ Sommer, Sommer#4445 ]
 description: Sommer coinsystem
-softdepend:
-  - Vault
-  - PlaceholderAPI
 commands:
   Coins:
-    aliases: [ /Coin ]
+    aliases: [ Coin ]
     description: Coins kommando
